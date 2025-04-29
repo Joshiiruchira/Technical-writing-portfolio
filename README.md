@@ -6,3 +6,5 @@
 ## Troubleshooting guide
 ## API documentation 
 ## Feature/Release notes 
+## Comparison guide
+## How to guide
